@@ -13,3 +13,7 @@ a.active {
 nav {
   padding-top: 20px;
 }
+
+.loading-dots {
+  font-size: 100px;
+}
